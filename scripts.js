@@ -1,4 +1,3 @@
-'use strict'
 
 function getParks(state, results){
     const params = {
